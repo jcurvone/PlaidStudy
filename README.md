@@ -17,9 +17,11 @@ Hao Fu.
 ### The secret tool behind Fintechs
 Plaid was founded in 2013 by Zach Perret and William Hockey.The pair originally attempted to build consumer financial management products, including budgeting and bookkeeping software. When confronted with difficulties in connecting bank accounts required for these tools, they decided to pivot their core business focus to a unified banking API.
 
-**Background:** Plaid was founded in 2013 by Zach Perret and William Hockey.The pair originally attempted to build consumer financial management products, including budgeting and bookkeeping software. When confronted with difficulties in connecting bank accounts required for these tools, they decided to pivot their core business focus to a unified banking API.
+**Background:** 
+Plaid was founded in 2013 by Zach Perret and William Hockey.The pair originally attempted to build consumer financial management products, including budgeting and bookkeeping software. When confronted with difficulties in connecting bank accounts required for these tools, they decided to pivot their core business focus to a unified banking API.
 
-**What do they do:** The company builds a data transfer network that powers fintech and digital finance products. The company builds a technology platform, which enables applications to connect with users’ bank accounts.Plaid focuses on enabling consumers and businesses to interact with their bank accounts, check balances, and make payments through financial technology applications
+**What do they do:** 
+The company builds a data transfer network that powers fintech and digital finance products. The company builds a technology platform, which enables applications to connect with users’ bank accounts.Plaid focuses on enabling consumers and businesses to interact with their bank accounts, check balances, and make payments through financial technology applications
 
 **Competitors:** xignite, Finicity,Yodlee, TrueLayer, Figo, InvestCloud, eWise, Sécuribox, Strands and BrandEquity.
 
